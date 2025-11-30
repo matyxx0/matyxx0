@@ -1,1 +1,1 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31nqapgilqrr3snrsri54rnd537m&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31nqapgilqrr3snrsri54rnd537m&redirect=true)
